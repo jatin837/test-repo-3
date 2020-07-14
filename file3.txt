@@ -1,3 +1,7 @@
 this is the third file in this git learning process 
 
 this is the first change here
+
+this is my second change here
+
+and this is my third change to you
